@@ -15,7 +15,7 @@ The industry has progressed, and has convinced itself it has progressed further 
 | Repository | Contents |
 |---|---|
 | `main` (this repository) | What is true of Ocalt as a whole: manifesto, ledger, ecosystem map, handbook, design language, brand, governance, decisions. |
-| [`ocaltql`](https://github.com/Ocalt/ocaltql) | A library of complete programs written in OcaltQL. The language reference and tutorial, which is the specification, are at https://ql.ocalt.com; this repository only links to it. |
+| [`ocaltql`](https://github.com/Ocalt/ocaltql) | A library of complete programs written in OcaltQL, with the language's formal grammar. The language reference and tutorial, which is the specification, are at https://ql.ocalt.com; this repository only links to it. |
 | [`research`](https://github.com/Ocalt/research) | Research material and the source of research prototypes. Conclusions that become ledger entries are referenced from here. Nothing else is duplicated. |
 
 ## Contents of this repository
