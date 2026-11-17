@@ -21,7 +21,7 @@ Every Ocalt product, in the order and with the categories of the product list at
 | Naybar | Social | https://naybar.com | https://ocalt.com/docs/naybar | Location-based social network and news feed organised around where you are, not who you follow. |  |
 | OcaltQL Console | Developer Tool | https://console.ocalt.com | https://ocalt.com/docs/console | Write and run OcaltQL in the browser with live output. |  |
 | OcaltQL Client | Software | https://client.ocalt.com | https://ocalt.com/docs/oql-client | Cross-platform software that extends Ocalt to every device you own. |  |
-| OcaltQL | Query Language | https://ql.ocalt.com | https://ocalt.com/docs/oql | Verb-first execution language for the entire stack. One grammar instead of twenty SDKs. | [`ocaltql`](https://github.com/Ocalt/ocaltql) |
+| OcaltQL | Query Language | https://ql.ocalt.com | https://ocalt.com/docs/oql | Verb-first execution language for the entire stack. One grammar instead of twenty SDKs. | Projects: [`ocaltql`](https://github.com/Ocalt/ocaltql) |
 
 ## How the products relate
 

@@ -15,7 +15,7 @@ Each service is reached through its own SDK, API and authentication method. Ocal
 - Databases are native to the namespace, not a wrapper around SQL.
 - A query is one HTTP request to the runtime, however much the script chains inside it.
 
-Repository: [`ocaltql`](https://github.com/Ocalt/ocaltql). Specification: the OcaltQL tutorial at https://ql.ocalt.com.
+Projects written in it: [`ocaltql`](https://github.com/Ocalt/ocaltql). Specification: the OcaltQL tutorial at https://ql.ocalt.com.
 
 ## Evidence
 

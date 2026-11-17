@@ -7,7 +7,7 @@
 
 ## Scope of this repository
 
-This repository holds what is true of Ocalt as a whole. OcaltQL material belongs in [`ocaltql`](https://github.com/Ocalt/ocaltql). Research belongs in [`research`](https://github.com/Ocalt/research).
+This repository holds what is true of Ocalt as a whole. OcaltQL projects belong in [`ocaltql`](https://github.com/Ocalt/ocaltql). Research belongs in [`research`](https://github.com/Ocalt/research).
 
 ## A pull request
 

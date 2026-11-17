@@ -12,5 +12,5 @@ The OcaltQL tutorial at https://ql.ocalt.com is the specification. Unless the tu
 
 ## Consequences
 
-- OcaltQL specification content lives in the `ocaltql` repository. This repository links to it and does not copy it, so there is exactly one source of truth.
+- The specification is the tutorial published at https://ql.ocalt.com. This repository links to it and does not copy it, so there is exactly one source of truth.
 - A mismatch between the tutorial and the runtime is a runtime defect, unless the tutorial has a syntax flaw.
